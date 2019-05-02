@@ -1,6 +1,6 @@
 # Request
 https://2.python-requests.org//zh_CN/latest/user/quickstart.html
-
+https://www.runoob.com/python/python-json.html
 
 # EX:
 ```
@@ -12,4 +12,5 @@ if r.status_code == 200:   # 回應的狀態碼若為 200 表示 OK
 else:
     print(r.status_code, r.reason) # 若發生錯誤(狀態碼不是 200), 則印出狀態碼及錯誤原因
 ```
-
+```
+!pip list 版本
