@@ -4,6 +4,8 @@ https://2.python-requests.org//zh_CN/latest/user/quickstart.html
 
 https://www.runoob.com/python/python-json.html
 
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/
 # EX:
 ```
 import requests  # 匯入 requests 套件
