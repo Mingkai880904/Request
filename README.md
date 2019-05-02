@@ -2,7 +2,7 @@
 https://2.python-requests.org//zh_CN/latest/user/quickstart.html
 
 
-###EX:
+# EX:
 ```
 import requests  # 匯入 requests 套件
 r = requests.get('http://www.flag.com.tw') # 向旗標網站發出 GET 請求,並將回應物件儲存到 r
