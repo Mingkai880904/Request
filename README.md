@@ -1,6 +1,8 @@
 # Request
-```https://2.python-requests.org//zh_CN/latest/user/quickstart.html```
-```https://www.runoob.com/python/python-json.html```
+https://2.python-requests.org//zh_CN/latest/user/quickstart.html
+
+
+https://www.runoob.com/python/python-json.html
 
 # EX:
 ```
